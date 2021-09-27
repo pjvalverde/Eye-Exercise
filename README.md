@@ -1,5 +1,4 @@
 # Eye-Exercise
-# Eye-Exercise
 ## Eye Exercise
 <img src = "oneeye.png" width = "300" />
 
