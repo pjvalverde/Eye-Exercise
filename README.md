@@ -1,4 +1,4 @@
-# Eye-Exercise
+# Eye Exercise
 ## Eye Exercise
 <img src = "oneeye.png" width = "300" />
 
@@ -24,7 +24,7 @@ for (let i = 0; i < 2; i++) {
   }
 ```
 
-But you can see all the code in the following link: <a href="">Eyes</a>
+But you can see all the code in the following link: <a href="https://htmlpreview.github.io/?https://github.com/pjvalverde/Eye-Exercise/blob/main/index.html">Eye Exercise</a>
 
 
 
